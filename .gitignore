@@ -5,3 +5,7 @@ build*
 *.rej
 *.log
 docs/_build
+meta-raspberry.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
